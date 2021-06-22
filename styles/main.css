@@ -9,9 +9,27 @@ body, button, input, select, textarea {
 	font-size: 14px;
 	line-height: 1.5;
 }
-
-h1, h2, h3, h4, h5, h6 {
+h1 {
+	font-family: "Patua One", serif;
+	letter-spacing: 2px;
+    margin-right: 1rem;
+    margin-left: 2rem;
+}
+ h2, h3, h4, h5, h6 {
 	font-family: "Patua One", serif;
 	letter-spacing: 2px;
 	margin: 0 1rem;
+}
+
+main {
+	margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+article {
+	margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 25px;
+    margin-left: 25px;
 }
