@@ -1,6 +1,8 @@
 const database = {
     past_projects: [{
-        id: 1, name: "Free Meme Generator Web App [React, JS, HTML, CSS]", link: "https://github.com/Tingting0618/react_app_meme_gen"
+        id: 1, name: "Free Meme Generator Web App [React, JS, HTML, CSS]", 
+        link: "https://github.com/Tingting0618/react_app_meme_gen",
+        webpage: "http://localhost:5000/"
     }, {
         id: 2, name: "Hotel Demand Forecasting", price: 8.99
     }, {

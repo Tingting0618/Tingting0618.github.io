@@ -8,6 +8,8 @@ export const PastProjects = () => {
     for (const project of past_projects) {
         html += `<li id="project--${project.id}">${project.name}</li>`
         html += `<a href =${project.link}> Github Link </a>`
+        html += `<br>`
+        html += `<a href =${project.webpage}> Actual Webpage </a>`
     }
 
     html += "</ul>"
