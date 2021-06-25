@@ -9,7 +9,10 @@ export const PastProjects = () => {
         html += `<li id="project--${project.id}">${project.name}</li>`
         html += `<a href =${project.link}> Github Link </a>`
         html += `<br>`
-        html += `<a href =${project.webpage}> Actual Webpage </a>`
+        if ( (project.webpage).length >= 2) {
+            html += `<a href =${project.webpage}> Website </a>`
+        }
+
     }
 
     html += "</ul>"

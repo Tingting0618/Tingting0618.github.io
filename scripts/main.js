@@ -14,6 +14,9 @@ const applicationHTML = `
         ${PastProjects()}
     </section>
 </article>
+
+<br>
+This site is in progress...
 `
 
 mainContainer.innerHTML = applicationHTML
