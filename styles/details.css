@@ -19,3 +19,10 @@ li {
     letter-spacing: 1px;
 	margin: 1 1rem;
 }
+
+p {
+	margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 25px;
+    margin-left: 60px;
+}
