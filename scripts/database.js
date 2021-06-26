@@ -27,7 +27,7 @@ const database = {
     current_projects: [
         {
             id: 1, name: "Earnings Call Database and Text Analysis [Python, Natural Language Toolkit]",
-            link: " ",
+            link: "https://github.com/Tingting0618/Earnings_Call_Transcript_Database_Analysis_NLTK",
             webpage: " "
         }
     ]
