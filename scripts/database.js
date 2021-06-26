@@ -2,7 +2,7 @@ const database = {
 
     past_projects: [
         {
-            id: 1, name: "Hotel Demand Forecast - Machine Learning [Python, SQL, scikit-learn]",
+            id: 1, name: "Demand Forecast - Machine Learning [Python, SQL, scikit-learn]",
             link: "https://github.com/Tingting0618/Hotel_Demand_Forecast_Machine_Learning",
             webpage: " "
         },
