@@ -15,8 +15,8 @@ const applicationHTML = `
         ${CurrentProjects()}
     </section>
 </article>
-<p>Please see the Github link for more details about this project. </p>
-<p>Please feel free to reach out if you have any suggestions or feedback.</p>
+<p>This project is in progress. More earnings call transcripts need to be parsed.</p>
+<p>Please feel free to reach out if you have any suggestions or feedback. :)</p>
 
 <h1>Past Projects</h1>
 <article class="details">
