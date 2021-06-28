@@ -27,7 +27,7 @@ const applicationHTML = `
 </article>
 
 <br>
-<p>This site is in progress...</p>
+<p>For more projects, please see the main GitHub page https://github.com/Tingting0618 </p>
 `
 
 mainContainer.innerHTML = applicationHTML
