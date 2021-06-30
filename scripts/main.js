@@ -16,7 +16,7 @@ const applicationHTML = `
     </section>
 </article>
 <p>This project is currently in progress. More earnings call transcripts need to be parsed.</p>
-<p>Once finish, a website will be built so that people can use to search, explore and analyze. </p>
+<p>Once finished, a website will be built so that people can use this App to search, explore and analyze earnings call. </p>
 <p>Please feel free to reach out if you have any suggestions or feedback. :)</p>
 
 <h1>Past Projects</h1>
