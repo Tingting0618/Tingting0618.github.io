@@ -27,7 +27,7 @@ const applicationHTML = `
 </article>
 
 <br>
-<p>For more projects, please see the main GitHub page https://github.com/Tingting0618 </p>
+<p>For more projects, please see the main GitHub page <a target="_blank" rel="noopener noreferrer" href = https://github.com/Tingting0618> https://github.com/Tingting0618 </a></p>
 `
 
 mainContainer.innerHTML = applicationHTML
