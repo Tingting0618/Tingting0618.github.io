@@ -12,7 +12,7 @@ const database = {
             webpage: "https://hotelsearchnow-tingting.shinyapps.io/Hotel_Search_Now/"
         },
         {
-            id: 3, name: "Image Recoginition and Object Detection [Python, YOLO]",
+            id: 3, name: "Image Recognition and Object Detection [Python, YOLO]",
             link: "https://github.com/Tingting0618/Object_Detection_Image_Recognition",
             webpage: " "
         },
