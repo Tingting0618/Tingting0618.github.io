@@ -27,6 +27,20 @@ const database = {
             link: "https://github.com/Tingting0618/react_app_meme_gen",
             webpage: " "
 
+        },
+
+        {
+            id: 6, name: "Machine Learning - Classification [Python, scikit-learn]",
+            link: "https://github.com/Tingting0618/Classification_Machine_Learning",
+            webpage: " "
+
+        },
+
+        {
+            id: 7, name: "Machine Learning - Regression [Python, scikit-learn]",
+            link: "https://github.com/Tingting0618/Regression_Machine_Learning",
+            webpage: " "
+
         }
     ],
 
