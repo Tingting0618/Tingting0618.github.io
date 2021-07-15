@@ -42,6 +42,14 @@ const database = {
             webpage: " "
 
         }
+        ,
+
+        {
+            id: 8, name: "Collaborative Filtering Recommender [Python]",
+            link: "https://github.com/Tingting0618/Collaborative_Filtering_Recommender",
+            webpage: " "
+
+        }
     ],
 
     current_projects: [
