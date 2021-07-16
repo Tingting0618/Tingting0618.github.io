@@ -21,35 +21,42 @@ const database = {
             link: "https://github.com/Tingting0618/Earthquake_Analysis_GIS_And_Web_Scraping",
             webpage: " "
         },
-
         {
-            id: 5, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
-            link: "https://github.com/Tingting0618/react_app_meme_gen",
+            id: 5, name: "Collaborative Filtering Recommender [Python]",
+            link: "https://github.com/Tingting0618/Collaborative_Filtering_Recommender",
+            webpage: " "
+
+        },
+    
+        {
+            id: 6, name: "Fraud Detection: Imbalanced Classification with SMOTE [Python, SMOTE]",
+            link: "https://github.com/Tingting0618/Imbalanced_Classification_SMOTE",
             webpage: " "
 
         },
 
+
         {
-            id: 6, name: "Machine Learning - Classification [Python, scikit-learn]",
+            id: 7, name: "Machine Learning - Classification [Python, scikit-learn]",
             link: "https://github.com/Tingting0618/Classification_Machine_Learning",
             webpage: " "
 
         },
 
         {
-            id: 7, name: "Machine Learning - Regression [Python, scikit-learn]",
+            id: 8, name: "Machine Learning - Regression [Python, scikit-learn]",
             link: "https://github.com/Tingting0618/Regression_Machine_Learning",
             webpage: " "
 
-        }
-        ,
-
+        },
+        
         {
-            id: 8, name: "Collaborative Filtering Recommender [Python]",
-            link: "https://github.com/Tingting0618/Collaborative_Filtering_Recommender",
+            id: 9, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
+            link: "https://github.com/Tingting0618/react_app_meme_gen",
             webpage: " "
 
         }
+ 
     ],
 
     current_projects: [
