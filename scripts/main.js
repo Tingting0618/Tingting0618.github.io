@@ -24,11 +24,11 @@ const applicationHTML = `
     </section>
 </article>
 <p>This project is currently in progress. More earnings call transcripts need to be parsed.</p>
-<p>Once finished, a website will be built so that people can use this App to search, explore and analyze earnings call. </p>
-<p>Please feel free to reach out if you have any suggestions or feedback. :)</p>
+<p>Once finished, a website will be built so that people can use this App to explore and analyze earnings call. </p>
+<p>Please feel free to reach out if you have any suggestions. </p>
 
 <br>
-<p>For more projects, please see the main GitHub page <a target="_blank" rel="noopener noreferrer" href = https://github.com/Tingting0618> https://github.com/Tingting0618 </a></p>
+<p>For more projects, please visit the main GitHub page <a target="_blank" rel="noopener noreferrer" href = https://github.com/Tingting0618> https://github.com/Tingting0618 </a></p>
 `
 
 mainContainer.innerHTML = applicationHTML
