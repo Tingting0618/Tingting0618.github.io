@@ -42,16 +42,23 @@ const database = {
             webpage: " "
 
         },
+        {
+            id: 8, name: "Machine Learning - Clustering and Dimensionality Reduction [Python, scikit-learn]",
+            link: "https://github.com/Tingting0618/Clustering_Dimensionality_Reduction",
+            webpage: " "
+
+        },
+
 
         {
-            id: 8, name: "Machine Learning - Regression [Python, scikit-learn]",
+            id: 9, name: "Machine Learning - Regression [Python, scikit-learn]",
             link: "https://github.com/Tingting0618/Regression_Machine_Learning",
             webpage: " "
 
         },
         
         {
-            id: 9, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
+            id: 10, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
             link: "https://github.com/Tingting0618/react_app_meme_gen",
             webpage: " "
 
