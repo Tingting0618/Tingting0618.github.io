@@ -56,9 +56,14 @@ const database = {
             webpage: " "
 
         },
-        
         {
-            id: 10, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
+            id: 10, name: "Machine Learning - Tree Based Model [Python, scikit-learn]",
+            link: "https://github.com/Tingting0618/Tree_Based_ML_Models",
+            webpage: " "
+
+        },
+        {
+            id: 11, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
             link: "https://github.com/Tingting0618/react_app_meme_gen",
             webpage: " "
 
