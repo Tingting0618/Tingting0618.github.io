@@ -27,43 +27,45 @@ const database = {
             webpage: " "
 
         },
-    
         {
-            id: 6, name: "Fraud Detection: Imbalanced Classification with SMOTE [Python, SMOTE]",
-            link: "https://github.com/Tingting0618/Imbalanced_Classification_SMOTE",
-            webpage: " "
-
-        },
-
-
-        {
-            id: 7, name: "Machine Learning - Classification [Python, scikit-learn]",
+            id: 6, name: "Machine Learning - Classification [Python, scikit-learn]",
             link: "https://github.com/Tingting0618/Classification_Machine_Learning",
             webpage: " "
 
         },
+            
         {
-            id: 8, name: "Machine Learning - Clustering and Dimensionality Reduction [Python, scikit-learn]",
-            link: "https://github.com/Tingting0618/Clustering_Dimensionality_Reduction",
+            id: 7, name: "Fraud Detection: Imbalanced Classification with SMOTE [Python, SMOTE]",
+            link: "https://github.com/Tingting0618/Imbalanced_Classification_SMOTE",
             webpage: " "
 
         },
-
-
         {
-            id: 9, name: "Machine Learning - Regression [Python, scikit-learn]",
+            id: 8, name: "Machine Learning - Regression [Python, scikit-learn]",
             link: "https://github.com/Tingting0618/Regression_Machine_Learning",
             webpage: " "
 
         },
         {
-            id: 10, name: "Machine Learning - Tree Based Model [Python, scikit-learn]",
+            id: 9, name: "Machine Learning - Tree Based Model [Python, scikit-learn]",
             link: "https://github.com/Tingting0618/Tree_Based_ML_Models",
             webpage: " "
 
         },
         {
-            id: 11, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
+            id: 10, name: "Machine Learning - Ensemble Learning [Python, scikit-learn]",
+            link: "https://github.com/Tingting0618/Ensemble_Learning_Random_Forest",
+            webpage: " "
+
+        },
+        {
+            id: 11, name: "Machine Learning - Clustering and Dimensionality Reduction [Python, scikit-learn]",
+            link: "https://github.com/Tingting0618/Clustering_Dimensionality_Reduction",
+            webpage: " "
+
+        },
+        {
+            id: 12, name: "Free Meme Generator Web App [React, JS, HTML, CSS]",
             link: "https://github.com/Tingting0618/react_app_meme_gen",
             webpage: " "
 
