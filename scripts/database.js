@@ -75,7 +75,12 @@ const database = {
 
     current_projects: [
         {
-            id: 1, name: "Earnings Call Database and Text Analysis [Python, Natural Language Toolkit]",
+            id: 1, name: "Giffygram - A Knockoff Instagram to Practice HTML, CSS, and JavaScript (Class Group Project)",
+            link: "https://github.com/Tingting0618/giffygram",
+            webpage: " "
+        },
+        {
+            id: 2, name: "Earnings Call Database and Text Analysis [Python, Natural Language Toolkit]",
             link: "https://github.com/Tingting0618/Earnings_Call_Transcript_Database_Analysis_NLTK",
             webpage: " "
         }
