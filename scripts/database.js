@@ -38,7 +38,7 @@ const database = {
             webpage: " "
 
         },
-            
+
         {
             id: 8, name: "Fraud Detection: Imbalanced Classification with SMOTE [Python, SMOTE]",
             link: "https://github.com/Tingting0618/Imbalanced_Classification_SMOTE",
@@ -81,7 +81,7 @@ const database = {
             webpage: " "
 
         }
- 
+
     ],
 
     current_projects: [

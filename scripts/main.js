@@ -9,26 +9,24 @@ const applicationHTML = `
     <h1>Welcome to Tingting's Portfolio Page</h1>
 </header>
 
-
-<h1>Her past projects</h1>
+<br>
+<h2>Her past projects</h2>
 <article class="details">
     <section class="detail--column list details__projects">
         ${PastProjects()}
     </section>
 </article>
 
-<h1>Her in progress project</h1>
+<br>
+<h2>Her in progress project</h2>
 <article class="details">
     <section class="detail--column list details__projects">
         ${CurrentProjects()}
     </section>
 </article>
-<p>This project is currently in progress. More earnings call transcripts need to be parsed.</p>
-<p>Once finished, a website will be built so that people can use this App to explore and analyze earnings call. </p>
-<p>Please feel free to reach out if you have any suggestions. </p>
-
 <br>
 <p>For more projects, please visit the main GitHub page <a target="_blank" rel="noopener noreferrer" href = https://github.com/Tingting0618> https://github.com/Tingting0618 </a></p>
+
 `
 
 mainContainer.innerHTML = applicationHTML
