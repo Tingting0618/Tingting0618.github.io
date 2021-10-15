@@ -69,13 +69,19 @@ const database = {
             link: "https://github.com/Tingting0618/react_app_meme_gen",
             webpage: " "
 
+        },
+        {
+            id: 13, name: "Home Breeze (Zillow/Compass Clone) [React, React-Bootstrap, CSS]",
+            link: "https://github.com/Tingting0618/HomeBreeze",
+            webpage: " "
+
         }
  
     ],
 
     current_projects: [
         {
-            id: 1, name: "Giffygram - A Knockoff Instagram to Practice HTML, CSS, and JavaScript (Class Group Project)",
+            id: 1, name: "Giffygram - A Instagram Clone to Practice HTML, CSS, and JavaScript (Class Group Project)",
             link: "https://github.com/Tingting0618/giffygram",
             webpage: " "
         },
