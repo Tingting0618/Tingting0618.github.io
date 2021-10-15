@@ -17,7 +17,7 @@ const applicationHTML = `
     </section>
 </article>
 
-<h1>Her in progress projects</h1>
+<h1>Her in progress project</h1>
 <article class="details">
     <section class="detail--column list details__projects">
         ${CurrentProjects()}
