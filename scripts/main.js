@@ -5,19 +5,19 @@ const mainContainer = document.querySelector("#container")
 
 const applicationHTML = `
 <header class="header">
-    <img src="./image/logo1.png" alt="Letter Logo"/>
-    <h1>Welcome to Tingting Duan Portfolio Page</h1>
+    <img src="./image/logo1.gif" alt="Letter Logo"/>
+    <h1>Welcome to Tingting's Portfolio Page</h1>
 </header>
 
 
-<h1>Past Projects</h1>
+<h1>Her past projects</h1>
 <article class="details">
     <section class="detail--column list details__projects">
         ${PastProjects()}
     </section>
 </article>
 
-<h1>In Progress Project</h1>
+<h1>Her in progress projects</h1>
 <article class="details">
     <section class="detail--column list details__projects">
         ${CurrentProjects()}
