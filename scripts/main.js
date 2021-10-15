@@ -25,7 +25,7 @@ const applicationHTML = `
     </section>
 </article>
 <br>
-<p>For more projects, please visit the main GitHub page <a target="_blank" rel="noopener noreferrer" href = https://github.com/Tingting0618> https://github.com/Tingting0618 </a></p>
+<p style="text-align:center">For more projects, please check out her  <a target="_blank" rel="noopener noreferrer" href = https://github.com/Tingting0618>GitHub</a> page.</p>
 
 `
 
