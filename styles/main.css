@@ -35,7 +35,7 @@ article {
     margin-left: 25px;
 }
 
-footer>ul {
+footer>ul  {
 	display: inline-grid;
 	grid-auto-flow: row;
 	grid-gap: 24px;
