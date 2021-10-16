@@ -6,11 +6,13 @@ const mainContainer = document.querySelector("#container")
 const applicationHTML = `
 <header class="header">
     <img src="./image/logo1.gif" alt="Letter Logo"/>
-    <h1>Welcome to Tingting's Portfolio Page</h1>
+    <h1>Welcome to Tingting's Portfolio Page <i class="fas fa-laptop-code"></i> </h1>
 </header>
 
 <br>
-<h2>Her past projects</h2>
+
+<h2>Past Projects <i class="fas fa-mug-hot"></i></h2> 
+
 <article class="details">
     <section class="detail--column list details__projects">
         ${PastProjects()}
@@ -18,7 +20,7 @@ const applicationHTML = `
 </article>
 
 <br>
-<h2>Her in progress project</h2>
+<h2>In Progress Project <i class="fas fa-mug-hot"></i></h2>
 <article class="details">
     <section class="detail--column list details__projects">
         ${CurrentProjects()}
