@@ -12,7 +12,7 @@ body, button, input, select, textarea {
 }
 h1 {
 	font-family: "Roboto Mono",monospace;
-	letter-spacing: 0.2px;
+	letter-spacing: 0.5px;
     margin-right: 1rem;
     margin-left: 2rem;
 }
@@ -26,7 +26,7 @@ main {
 	margin-top: 5px;
     margin-bottom: 5em;
     margin-right: 36px;
-    margin-left: 36px;
+    margin-left: 56px;
 }
 article {
 	margin-top: 5px;
@@ -52,7 +52,7 @@ footer>ul {
 	color: white;
 	margin: 0rem 0rem 2rem 0rem;
 	padding: 0rem;
-	font-size: smaller;
+	font-size: small;
 	font-weight: lighter;
   }
   li>a {
@@ -62,7 +62,7 @@ footer>ul {
     letter-spacing: 0px;
 	margin: 1rem;
 	padding: 0rem;
-	font-size: medium;
+	font-size:large;
 	font-weight: lighter;
   }
   

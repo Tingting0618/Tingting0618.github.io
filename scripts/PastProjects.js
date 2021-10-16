@@ -13,7 +13,7 @@ export const PastProjects = () => {
         }
     }
 
-    html += "</ul>"
+    html += "</ul> <br>"
 
     return html
 }
