@@ -11,7 +11,7 @@ const applicationHTML = `
 
 <br>
 
-<h2>Past Projects <i class="fas fa-mug-hot"></i></h2> 
+<h2>Her Past Projects <i class="fas fa-mug-hot"></i></h2> 
 
 <article class="details">
     <section class="detail--column list details__projects">
@@ -20,7 +20,7 @@ const applicationHTML = `
 </article>
 
 <br>
-<h2>In Progress Project <i class="fas fa-mug-hot"></i></h2>
+<h2>Her In Progress Project <i class="fas fa-mug-hot"></i></h2>
 <article class="details">
     <section class="detail--column list details__projects">
         ${CurrentProjects()}
