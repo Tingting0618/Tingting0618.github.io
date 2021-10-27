@@ -77,13 +77,13 @@ const database = {
         },
         {
             id: 14, name: "Auto Translation [Python, Googletrans]",
-            link: "hhttps://github.com/Tingting0618/AutoTranslation_ReverseGeocode",
+            link: "https://github.com/Tingting0618/AutoTranslation_ReverseGeocode",
             webpage: " "
 
         },
         {
             id: 15, name: "Reverse Geocoding [Python, GeoPy]",
-            link: "hhttps://github.com/Tingting0618/AutoTranslation_ReverseGeocode",
+            link: "https://github.com/Tingting0618/AutoTranslation_ReverseGeocode",
             webpage: " "
 
         },
