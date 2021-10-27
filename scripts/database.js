@@ -76,7 +76,19 @@ const database = {
 
         },
         {
-            id: 14, name: "Home Breeze (Zillow/Compass Clone) [React, React-Bootstrap, CSS]",
+            id: 14, name: "Auto Translation [Python, Googletrans]",
+            link: "hhttps://github.com/Tingting0618/AutoTranslation_ReverseGeocode",
+            webpage: " "
+
+        },
+        {
+            id: 15, name: "Reverse Geocoding [Python, GeoPy]",
+            link: "hhttps://github.com/Tingting0618/AutoTranslation_ReverseGeocode",
+            webpage: " "
+
+        },
+        {
+            id: 16, name: "Home Breeze (Zillow/Compass Clone) [React, React-Bootstrap, CSS]",
             link: "https://github.com/Tingting0618/HomeBreeze",
             webpage: " "
 
